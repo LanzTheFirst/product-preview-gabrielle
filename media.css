@@ -29,12 +29,19 @@
     flex-direction: column;
     justify-content: center;
     padding-left: 25px;
-    padding: 15px;
+  }
+  .main-container-right h6 {
+    color: hsl(0, 0%, 66%);
+    letter-spacing: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-size : 14px;
+    font-weight: 500;
+    margin-top: 15px;
   }
   .main-container-right h1 {
     font-family: 'Fraunces', serif;
     font-weight: 700;
-    width: 85%;
+    width: 90%;
     margin-top: 20px;
   }
   .details {
