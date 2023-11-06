@@ -29,11 +29,12 @@
     flex-direction: column;
     justify-content: center;
     padding-left: 25px;
+    padding: 15px;
   }
   .main-container-right h1 {
     font-family: 'Fraunces', serif;
     font-weight: 700;
-    width: 80%;
+    width: 85%;
     margin-top: 20px;
   }
   .details {
