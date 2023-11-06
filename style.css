@@ -82,7 +82,7 @@ main {
   background-color:hsl(158, 36%, 37%);
   border: none;
   border-radius: 10px;
-  cursor: pointer;
+  cursor: none;
 }
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
