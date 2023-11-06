@@ -82,7 +82,12 @@ main {
   background-color:hsl(158, 36%, 37%);
   border: none;
   border-radius: 10px;
-  cursor: none;
+  color: hsl(0, 0%, 100%);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+.main-container-right button img {
+  padding-right: 5px;
 }
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
